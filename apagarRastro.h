@@ -1,0 +1,6 @@
+#ifndef APAGARRASTRO_H_INCLUDED
+#define APAGARRASTRO_H_INCLUDED
+
+apagarRastro(mov);
+
+#endif // APAGARRASTRO_H_INCLUDED

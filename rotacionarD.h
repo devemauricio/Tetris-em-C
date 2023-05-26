@@ -1,0 +1,6 @@
+#ifndef ROTACIONARD_H_INCLUDED
+#define ROTACIONARD_H_INCLUDED
+
+rotacionarD();
+
+#endif // ROTACIONARD_H_INCLUDED

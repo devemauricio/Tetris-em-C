@@ -1,0 +1,6 @@
+#ifndef LIMPARPECA_H_INCLUDED
+#define LIMPARPECA_H_INCLUDED
+
+limparPeca();
+
+#endif // LIMPARPECA_H_INCLUDED
